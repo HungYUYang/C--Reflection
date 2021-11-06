@@ -1,0 +1,12 @@
+E:\C#\studying\dll-IL-metadata\Benz\bin\Debug\Benz.dll
+E:\C#\studying\dll-IL-metadata\Benz\bin\Debug\Benz.pdb
+E:\C#\studying\dll-IL-metadata\Benz\bin\Debug\dll-IL-metadata.exe
+E:\C#\studying\dll-IL-metadata\Benz\bin\Debug\dll-IL-metadata.pdb
+E:\C#\studying\dll-IL-metadata\Benz\bin\Debug\dll-IL-metadata.exe.config
+E:\C#\studying\dll-IL-metadata\Benz\obj\Debug\Benz.csproj.CoreCompileInputs.cache
+E:\C#\studying\dll-IL-metadata\Benz\obj\Debug\Benz.csproj.CopyComplete
+E:\C#\studying\dll-IL-metadata\Benz\obj\Debug\Benz.dll
+E:\C#\studying\dll-IL-metadata\Benz\obj\Debug\Benz.pdb
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\DLL\Benz.dll
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\DLL\Benz.pdb
+E:\C#\studying\dll-IL-metadata\Benz\obj\Debug\Benz.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\DLL\BMW.dll
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\DLL\BMW.pdb
+E:\C#\studying\dll-IL-metadata\BMW\obj\Debug\BMW.csprojAssemblyReference.cache
+E:\C#\studying\dll-IL-metadata\BMW\obj\Debug\BMW.csproj.CoreCompileInputs.cache
+E:\C#\studying\dll-IL-metadata\BMW\obj\Debug\BMW.csproj.CopyComplete
+E:\C#\studying\dll-IL-metadata\BMW\obj\Debug\BMW.dll
+E:\C#\studying\dll-IL-metadata\BMW\obj\Debug\BMW.pdb

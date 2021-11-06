@@ -1,0 +1,7 @@
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\Debug\dll-IL-metadata.exe.config
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\Debug\dll-IL-metadata.exe
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\Debug\dll-IL-metadata.pdb
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\obj\x64\Debug\dll-IL-metadata.csprojAssemblyReference.cache
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\obj\x64\Debug\dll-IL-metadata.csproj.CoreCompileInputs.cache
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\obj\x64\Debug\dll-IL-metadata.exe
+E:\C#\studying\dll-IL-metadata\dll-IL-metadata\obj\x64\Debug\dll-IL-metadata.pdb
