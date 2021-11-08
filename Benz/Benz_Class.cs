@@ -9,8 +9,8 @@ namespace Benz
     public class Benz_Class:Car
     {
         public override void Run()
-        {
-            Console.WriteLine("Benz run 500 km!!");
+        {            
+            Console.WriteLine(hashtable["Parm"].ToString() + " run 500 km!!");
         }
     }
 }

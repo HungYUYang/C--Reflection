@@ -14,10 +14,12 @@ namespace dll_IL_metadata
             Console.Write("Please key in dll name (Benz/BMW):");
             string dllname = Console.ReadLine();
             string dllpath= @"E:\C#\studying\dll-IL-metadata\dll-IL-metadata\bin\x64\DLL\";
+
             try {
                 Assembly oa = Assembly.LoadFile(dllpath + dllname + ".dll");
                 Type t = oa.GetType("Benz." + dllname + "_Class");
                 var tcb = (Car)Activator.CreateInstance(t);
+                tcb.hashtable.Add("Parm", dllname);
                 tcb.Run();
             }
             catch {

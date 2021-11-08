@@ -11,7 +11,7 @@ namespace BMW
     {
         public override void Run()
         {
-            Console.Write("BMW run 1000 km!!");
+            Console.Write(hashtable["Parm"].ToString() + " run 1000 km!!");
         }
     }
 }
